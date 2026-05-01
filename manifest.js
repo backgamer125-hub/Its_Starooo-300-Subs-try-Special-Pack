@@ -1,17 +1,23 @@
 {
-   "author": "Its_Starooo",
-   "background": {
-      "service_worker": "background.js"
-   },
-   "description": "A browser extension to intercept HTTPS request for Miniblox",
-   "host_permissions": [ "https://miniblox.io/*", "https://miniblox.online/*", "https://miniblox.org/*", "https://raw.githubusercontent.com/*" ],
-   "icons": {
-      "128": "icon.png"
-   },
-   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwBVGvpngjQNJJ+AQiBL8klPxSk2aq1hkz16kOoVHJF+ueEU4SRw0rPWpexkZGftRUtFU/iwuE/QOS/i7lBPtXNsbThLc2h8aCdRx1X9SSPHc08rJA9MO06nBpTngXt6SXblnjEXYWUxRK3hREi9Nd2/UMLtIlrLpQXKsuSMN3g59K0rUexHoH5/NTrj7nyf7FLu/UqhGipdvDuO/qcFObP2WjnnWYndlAplQ5BOYMLXugKmZbWAEx/s+NTBNvMlbNIYkarGtRRjPZ0W5g98PizpKJ5z+l0HRIrgUfzbVJVtYa7Bhx4hJFbPRGpw3iW3MYe7r30AZo2H7PFntdbalOQIDAQAB",
-   "manifest_version": 3,
-   "name": "Its_Starooo 300 Subs Special Pack Try",
-   "permissions": [ "declarativeNetRequestWithHostAccess" ],
-   "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "1.3.0"
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "manifest_version": 3,
+  "name": "100 Subscribers Special",
+  "version": "1.1.4",
+  "description": "A browser extension to make Miniblox textures smooth",
+  "author": "Its_Starooo",
+  "background": {"service_worker": "background.js"},
+  "icons": {
+    "128": "icon128.png"
+  },
+  "permissions": [
+   "declarativeNetRequestWithHostAccess"
+  ],
+  "host_permissions": [
+    "https://miniblox.io/*",
+    "https://miniblox.online/*",
+    "https://miniblox.org/*",
+    "https://www.crazygames.com/game/miniblox*",
+    "https://raw.githubusercontent.com/*"
+  ]
 }
