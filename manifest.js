@@ -10,7 +10,7 @@
    },
    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwBVGvpngjQNJJ+AQiBL8klPxSk2aq1hkz16kOoVHJF+ueEU4SRw0rPWpexkZGftRUtFU/iwuE/QOS/i7lBPtXNsbThLc2h8aCdRx1X9SSPHc08rJA9MO06nBpTngXt6SXblnjEXYWUxRK3hREi9Nd2/UMLtIlrLpQXKsuSMN3g59K0rUexHoH5/NTrj7nyf7FLu/UqhGipdvDuO/qcFObP2WjnnWYndlAplQ5BOYMLXugKmZbWAEx/s+NTBNvMlbNIYkarGtRRjPZ0W5g98PizpKJ5z+l0HRIrgUfzbVJVtYa7Bhx4hJFbPRGpw3iW3MYe7r30AZo2H7PFntdbalOQIDAQAB",
    "manifest_version": 3,
-   "name": "Back 2 Basics for Survival",
+   "name": "Its_Starooo 300 Subs Special Pack Try",
    "permissions": [ "declarativeNetRequestWithHostAccess" ],
    "update_url": "https://clients2.google.com/service/update2/crx",
    "version": "1.3.0"
